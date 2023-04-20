@@ -20,7 +20,7 @@ It is the part that every user sees when entering the application, here you can 
 all these actions have their own form and due validations. As I mentioned, there is the possibility to recover a password or verify the account when creating a new account, for this I used PHPMailer to test the correct operation of these actions.
 
 
-## Admin view :feet:
+## Admin view :mag_right:
 
 In this view the administrator will be able to see the appointments made by the users, where the type of service, the date, the client's name and cell phone number are shown, as well as having the option to delete the reservation. The administrator can create more services and can update the ones he already has to change some data as well as delete any of these. There is the option to verify by date that appointments or services should be performed, using the JavaScript functionalities that data is taken and through the GET method proceeds to query the database to filter that information by date.
 
